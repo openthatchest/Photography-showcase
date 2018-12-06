@@ -13,6 +13,13 @@ a {
   display: block;
   background-color: #192A56;
 }
+a li {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
 h1 {
     text-align: center;
     font-size: 50px;
